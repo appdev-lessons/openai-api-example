@@ -1,3 +1,3 @@
-# photogram-gui
+# openai-api-example
 
-https://learn.firstdraft.com/lessons/153-photogram-gui
+https://learn.firstdraft.com/lessons/
